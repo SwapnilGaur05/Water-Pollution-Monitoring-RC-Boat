@@ -26,7 +26,7 @@ An affordable, Arduino-based remotely operated boat designed to monitor water cl
 - `Code/`: Contains the Arduino C++ source code.
 - `Documentation/`: Full academic project report (PDF).
 
-## Authors
+## Author
 - Swapnil Gaur
 
 *Department of Information Technology, Thakur College of Science and Commerce (A.Y. 2025–26)*
